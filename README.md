@@ -1,3 +1,2 @@
 # GitPractice
-
-### Kishen PC @kishen-pc
+### Name @Username
